@@ -1,2 +1,2 @@
-# quizz
-a small quiz app
+# qr generator using npm modules
+a small qr generator code
